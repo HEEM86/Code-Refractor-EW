@@ -146,6 +146,9 @@ p {
     max-width: 150px;
 } */
 
+
+/* create "article" class for row dimensions and slacked out unecessary code */
+
 .article {
     margin-bottom: 20px;
     padding: 50px;
@@ -173,6 +176,9 @@ p {
     color: #ffffff;
 } */
 
+
+/* created article class for this image section dimensions and slacked out unecessary code */
+
 .article img {
     max-height: 200px;
 }
@@ -184,6 +190,9 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 } */
+
+
+/* created article class for h2 sections and slacked out unecessary code */
 
 .article h2 {
     margin-bottom: 20px;
