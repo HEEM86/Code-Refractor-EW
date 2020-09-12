@@ -77,7 +77,7 @@ Illustration of these sections with descriptive tags in general is very helpful 
 
     **Removed Background image link and added "object-fit: cover to maintain hero image from stretch**
 
-    B
+    
 
     ![CSS changes to hero section](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/hero%20css.png)
 
