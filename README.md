@@ -14,7 +14,7 @@ After delivering the finshed product the Client will subquently recieve and Invo
 If you have any questions feel free to contact me via Slack. 
 
 
-## HTML Code REFRACTOR:
+## HTML/CSS Code REFRACTOR:
 
 On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provide a snap shot below to illustrate the actual code that I recieved. 
 
