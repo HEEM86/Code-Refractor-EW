@@ -9,7 +9,7 @@
 
 This is a detailed description that will outline the first project of this BootCamp. The project is a code refractor operation, which a client wanted me to make his code more appropriate in regards to Semantic HTML. The timeline for this project is 1 week, and I will go in and make necessary changes to the client's code through my extensive experience from the UC Berkeley Extension Institution and along with my core analytical problem solving skills. In addition I will be referencing information from sources that illustrate the correct practices for refractoring HTML. 
 
-Also will provide a summary of time spent on this project, that will suppliment the invoice.
+
 
 If you have any questions feel free to contact me via Slack. 
 
@@ -140,19 +140,9 @@ Illustration of these sections with descriptive tags in general is very helpful 
 
 
 
-## Project Time Breakdown: 
 
-Tues. Sept. 8th Reviewed project 5-6pm - 60 mins
 
-Wed. Sept. 9th Heavy research to fully understand the project and find sources 6-9pm 90 mins
 
-Thurs. Sept 10th Began Refractoring process, scrubbing through code to identify necessary changes/adjustments and consolidation. 9-1am 240min 
-
-(12-1am Watched Netflix shows to decompress)
-
-Fri. Sept 11th More Refractoring and finalizing changes etc. 10-4am 360 mins
-
-(nap from 2-3:30)
 
 
 
