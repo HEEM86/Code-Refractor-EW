@@ -1,7 +1,7 @@
 
 # **Ernest's Code Refractor Readme.**
 
-![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/james-harrison-vpOeXr5wmR4-unsplash.jpg)
+![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/stock%20image.jpg)
 
 
 
