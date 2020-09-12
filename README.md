@@ -45,7 +45,7 @@ CSS Shot 2
 
 
 
-##Refractor Operation:
+## Refractor Operation:
 
 1. Filter out unecessary div tags for the core sections and replace them with more non-technical friendly tags for any reader to understand
 
