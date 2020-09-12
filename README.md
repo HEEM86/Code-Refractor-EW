@@ -1,6 +1,11 @@
 
+# **Ernest's Code Refractor Readme.**
 
-# Ernest's Code Refractor Readme.
+![Stock Image]()
+
+
+
+
 
 This is a detailed description that will outline the first project of this BootCamp. The project is a code refractor operation, which a client wanted me to make his code more appropriate in regards to Semantic HTML. The timeline for this project is 1 week, and I will go in and make necessary changes to the client's code through my extensive experience from the UC Berkeley Extension Institution and along with my core analytical problem solving skills. In addition I will be referencing information from sources that illustrate the correct practices for refractoring HTML. 
 
