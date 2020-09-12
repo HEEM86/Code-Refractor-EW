@@ -13,7 +13,31 @@ If you have any questions feel free to contact me via Slack.
 
 On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provide a snap shot below to illustrate the actual code that I recieved. 
 
-Snap Shot ---- Of original code ------
+Snap Shot of Original Code:  
+
+
+HTML Code:
+
+
+![Code Snapshot](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/html%20full%20snap.png)
+
+
+
+CSS Code:
+
+
+CSS Shot 1
+
+![Code Snapshot](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/css%20code%201.png)
+
+
+CSS Shot 2
+
+![Code Snapshot](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/css%20code%202.png)
+
+
+
+
 
 
 ##Refractor Operation:
