@@ -1,7 +1,7 @@
 
 # **Ernest's Code Refractor Readme.**
 
-![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/stock%20image.jpg)
+![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/stock%20image%20V.jpg)
 
 
 **Overview** :bulb: 
@@ -13,7 +13,12 @@ This is a detailed description that will outline the first project of this BootC
 If you have any questions feel free to contact me via Slack. 
 
 
-## HTML/CSS Code REFRACTOR:
+## Table of Contents
+
+
+
+
+## HTML/CSS Code REFRACTOR Project:
 
 On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provide a snap shot below to illustrate the actual code that I recieved. 
 
