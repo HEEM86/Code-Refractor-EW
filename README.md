@@ -1,10 +1,10 @@
 
-# **Ernest's Code Refractor Readme.**
+# **Ernest's Code Refractor Readme.** :fire:
 
-![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/stock%20image%20V.jpg)
+![Stock Image](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/stock%20III.jpg)
 
 
-**Overview** :bulb: 
+## Overview :bulb: 
 
 This is a detailed description that will outline the first project of this BootCamp. The project is a code refractor operation, which a client wanted me to make his code more appropriate in regards to Semantic HTML. The timeline for this project is 1 week, and I will go in and make necessary changes to the client's code through my extensive experience from the UC Berkeley Extension Institution and along with my core analytical problem solving skills. In addition I will be referencing information from sources that illustrate the correct practices for refractoring HTML. 
 
@@ -13,12 +13,8 @@ This is a detailed description that will outline the first project of this BootC
 If you have any questions feel free to contact me via Slack. 
 
 
-## Table of Contents
 
-
-
-
-## HTML/CSS Code REFRACTOR Project:
+## The Begining :mag:
 
 On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provide a snap shot below to illustrate the actual code that I recieved. 
 
