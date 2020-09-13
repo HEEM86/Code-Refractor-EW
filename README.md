@@ -6,17 +6,14 @@
 
 ## Overview :bulb: 
 
-This is a detailed description that will outline the first project of this BootCamp. The project is a code refractor operation, which a client wanted me to make his code more appropriate in regards to Semantic HTML. The timeline for this project is 1 week, and I will go in and make necessary changes to the client's code through my extensive experience from the UC Berkeley Extension Institution and along with my core analytical problem solving skills. In addition I will be referencing information from sources that illustrate the correct practices for refractoring HTML. 
+This is a detailed description that will outline the first project of this BootCamp. The project is a code refractor operation, which a client wanted me to make his code more appropriate in regards to Semantic HTML standards. The timeline for this project is 1 week, and I will go in and make necessary changes to the client's code through my extensive experience from the UC Berkeley Extension Institution and along with my core analytical problem solving skills. In addition I will be referencing information from sources that illustrate the correct practices for refractoring HTML. 
 
-
-
-If you have any questions feel free to contact me via Slack. 
 
 
 
 ## The Begining :mag:
 
-On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provide a snap shot below to illustrate the actual code that I recieved. 
+On Tues. Sept. 8th I recieved the HTML code from Client. The code was filled with "div" tags and wasn't organized in a way for non-technical professtionals to understand. I provided a snap shot below to illustrate the actual code that I recieved. 
 
 Snap Shot of Original Code:  
 
@@ -51,7 +48,7 @@ CSS Shot 2
 On the HTML side of things I took the approach of using descriptive tags to better identify each section, this also helped with the consolidation of the CSS code.
 
 
-1. Filter out unecessary div tags for the core sections and replace them with more non-technical friendly tags for any reader to understand
+1. Filter out unecessary div tags for the core sections and replace them with more non-technical friendly tags for any reader to understand.
 
 
     **Header Tags - Used the appropriate "Header" tag to illustrate the header area.** 
@@ -102,7 +99,7 @@ On the HTML side of things I took the approach of using descriptive tags to bett
 
 
 
-My mentallity for this section was consolidating the code to something that more managable and easy to navigate. Also if the client wanted to make changes in the future, anyone reviewing this code can easily idenifty each section.
+My mentallity for this section was consolidating the code to something that's more managable and easy to navigate. Also if the client wanted to make changes in the future, anyone reviewing this code can easily idenifty each section.
 
 
 **Made the header CSS class communicate with the HTML by removing the periods.** 
@@ -112,7 +109,7 @@ Removed periods from the following header classes
 ![CSS Header class changes](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/header%20css.png)
 
 
-**Removed Background image link and added "object-fit: cover to maintain hero image from stretch**
+**Removed Background image link and added "object-fit: cover to maintain hero image from it being over-strecthed.**
 
     
 
@@ -133,7 +130,7 @@ Added "Aside" class for h3 section
 ![CSS Aside class "h3" dchanges](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/aside%20css%20h3%20tags.png)
 
 
-Added "Aside class for image (img) section
+Added "Aside" class for image (img) section
 
 ![CSS Aside class img section changes](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/aside%20css%20img%20tags.png)
 
@@ -146,18 +143,18 @@ Added "Aside" class for this section
 **Create article class for several sections**
 
 
-Article class created for row aesthics
+Article class created for row aesthics.
 
 ![Article class create for row aesthics](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/css%20article%20for%20dimensions.png)
 
 
-Create article class for imgage and excluded unecessary code
+Create article class for image and excluded unecessary code.
 
 
 ![Article class for images](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/css%20article%20for%20images.png) 
 
 
-Added another Article class for the h3 sections
+Added another Article class for the h3 sections.
 
 ![Article class for h3 sections](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/aside%20css%20h3%20tags.png)
 
@@ -169,9 +166,9 @@ Added another Article class for the h3 sections
 
 The purpose of this project was to create a mock presentation that I would share with a client, that would give a detailed overview of my work. To be honest this isn't quite client ready, it's more of a practice draft but I feel it's an appropriate body of work to illustrate to the Instructors my understanding of the week 1 material and my efforts to present what I've learned. 
 
-My goal of this project was to modify the clients code according to approripate HTML Semantic practices and to consolidate. I was able to find sevaral areas of redudancy in the CSS code, and I was able to breakdown sections of CSS to 1 class that communicated to large sections of the HTML code. From an aesthetic perspecitive I feel that anyone reviewing my work will be able identify the sections of code and easily see the areas of it seeing it on a browser.
+My goal of this project was to modify the clients code according to approripate HTML Semantic practices and to consolidate. I was able to find sevaral areas of redudancy in the CSS code, and I was able to breakdown sections of CSS to 1 class that communicated to large sections of the HTML code. From an aesthetic perspecitive I feel that anyone reviewing my work will be able to identify the sections of code and easily see the areas of it on a browser.
 
-There's still a lot to learn. I feel that there was more I could of changed, but I'm still in the process of growing a better understanding of web development. I did take risks of trial and error and implementing things to see if, I would get the desire outcome, but I decided to keep the complexity of the changes at a moderate level. 
+There's still a lot to learn. I feel that there was more I could of changed... but I'm still in the process of growing a better understanding of web development. I did take risks of trial and error and implementing things to see if, I would get the desire outcome, but I decided to keep the complexity of the changes at a moderate level. 
 
 Overall I enjoyed this assingment, it was challenging and I had to tap into a problem solving/creative mentallity. Looking forward to future projects and continuing to develop my skills.  
 
