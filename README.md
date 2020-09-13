@@ -62,15 +62,15 @@ CSS Shot 2
 
 
     
-   ![Main Tag Image Example](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/main%20article%20tags.png)
+   ![Main Tag Image Example](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/main%20tags%20html.png)
 
 
     
-    **Article Tags - Used these tags to identify the article or the space with important content**
+    **Article Tags - Used these tags to identify the article content section**
 
 
 
-    ![Article Tag Image Example](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/main%20article%20tags.png)
+    ![Article Tag Image Example](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/html%20article%20class.png)
 
 
 
@@ -132,6 +132,18 @@ Illustration of these sections with descriptive tags in general is very helpful 
     Added "Aside" class for this section
 
      ![CSS Adding Aside class for this section](https://raw.githubusercontent.com/HEEM86/Code-Refractor-EW/master/README%20images/aside%20css1.png)
+
+
+
+     **Create article class for row dimensions and excluded unecessary code**
+
+
+
+
+
+
+    **Create article class content and excluded unecessary code**
+
 
 
 
